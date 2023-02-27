@@ -1,0 +1,7 @@
+version: '3'
+services:
+  cookiecutter:
+    build: .
+    volumes:
+    - .:/mnt/
+    working_dir: /mnt/

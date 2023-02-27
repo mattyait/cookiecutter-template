@@ -1,0 +1,6 @@
+# Miscellaneous
+.DS_Store
+project-name
+
+# Crash log files
+crash.log

@@ -1,0 +1,18 @@
+{
+    "full_name": "Mahattam Tomar",
+	"email": "mattyait@gmail.com",
+    "github_user": "mattyait",
+    "github_author": "https://github.com/mattyait",
+	"template_name": "project-name",
+    "template_description": "Project name",
+    "_copy_without_render": [
+        "*.html",
+        ".github/*.yaml"
+    ],
+	"repo_name": "nodejs-project-name",
+	"git_repo_name": "git@github.com:mattyait/project-name.git",
+	"release_date": "2023-02-24",
+	"year": "2023",
+	"version": "0.0.0",
+    "license": "Mit"
+}

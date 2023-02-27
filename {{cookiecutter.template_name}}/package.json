@@ -1,0 +1,19 @@
+{
+	"name": "{{cookiecutter.template_name}}",
+	"version": "{{cookiecutter.version}}",
+	"description": "{{cookiecutter.template_description}}",
+	"main": "index.js",
+	"author": "{{cookiecutter.github_user}}",
+    "license": "{{cookiecutter.license}}",
+    "repository": {
+      "type": "git",
+      "url": "{{cookiecutter.git_repo_name}}"
+    },
+    "engines": {
+      "node": "0.10.x",
+      "npm": "1.2.x"
+    },
+    "scripts": {
+      "start": "node server.js"
+    }
+}
